@@ -13,7 +13,7 @@ This is not a very good election model. It is meant to teach linear regressions.
 
 ### Jupyter Notebooks
 
-1. **01-prepare-data.ipynb**
+#### `01-prepare-data.ipynb`
    - Loads raw election data from county-level presidential results
    - Retrieves census demographic data via the Census API
    - Calculates percentage variables (e.g., percent white, black, hispanic)
@@ -22,7 +22,7 @@ This is not a very good election model. It is meant to teach linear regressions.
    - Cleans and processes the data
    - Exports the final dataset to `cleaned_and_merged_data.csv`
 
-2. **02-election-model.ipynb**
+#### `02-election-model.ipynb`
    - Loads the processed dataset
    - Has a demo regression model replete with
         - Model diagnostics
