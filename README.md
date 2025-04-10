@@ -5,11 +5,8 @@ This is not a very good election model. It is meant to teach linear regressions.
 
 ### Data Files
 
-- **data/** - Directory containing raw data files:
-  - `election_results.csv` - Raw presidential election results by county
-  - `census_data.csv` - Raw census demographic data by county (appears when you run the data cleaning notebook)
-  
-- **cleaned_and_merged_data.csv** - Processed dataset used for modeling, containing merged election results and census data with the following key variables 
+- **cleaned_and_merged_data.csv** - Processed dataset used for modeling, containing merged election results and census data with the following key variables. Note - this includes methodological choices made in ⚠️ `01-prepare-data.ipynb` which you MUST REVIEW.
+- **data/** - Directory containing raw data files
 
 ### Jupyter Notebooks
 
