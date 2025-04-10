@@ -1,0 +1,4 @@
+.env
+data/census_data.csv
+.DS_Store
+df.csv
