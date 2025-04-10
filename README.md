@@ -3,8 +3,6 @@
 This is not a very good election model. It is meant to teach linear regressions.
 
 
-## Repository Contents
-
 ### Data Files
 
 - **data/** - Directory containing raw data files:
